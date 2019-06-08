@@ -1,8 +1,6 @@
-# iPhone-and-iPad-Device-Size
+# iPhone Device-Size
 
-=> 5s                  => 320 x 568
-
-=> SE                  => 320 x 568
+=> 5s, SE              => 320 x 568
         
 => 6, 6s, 7, 8         => 375 x 667
        
